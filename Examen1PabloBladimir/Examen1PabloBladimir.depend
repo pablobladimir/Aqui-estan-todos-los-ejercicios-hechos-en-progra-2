@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1408489966 source:c:\users\isolina\documents\pablobladimir\programacionpablo\programacion2github\aqui-estan-todos-los-ejercicios-hechos-en-progra-2\examen1pablobladimir\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

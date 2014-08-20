@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1406762553 source:c:\users\isolina\documents\pablobladimir\programacionpablo\programacionpablo\programa12\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1406771170 source:c:\users\isolina\documents\pablobladimir\programacionpablo\programacion2github\programa12\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
